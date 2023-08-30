@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14ceba61.css",
+    "main.js": "/static/js/main.538fd5d9.js",
+    "static/media/ALLERGEN_GLUTEN.png": "/static/media/ALLERGEN_GLUTEN.2cb599c3df0317b5ed6b.png",
+    "static/media/ALLERGEN_LUPIN.png": "/static/media/ALLERGEN_LUPIN.332133229339e5e2d97f.png",
+    "static/media/ALLERGEN_CELERY.png": "/static/media/ALLERGEN_CELERY.399e3be487ab78899dd7.png",
+    "static/media/ALLERGEN_SULPHITES.png": "/static/media/ALLERGEN_SULPHITES.307f79bd17005b7e3973.png",
+    "static/media/ALLERGEN_FISH.png": "/static/media/ALLERGEN_FISH.d935f6e1cc108fd3924e.png",
+    "static/media/ALLERGEN_TREE_NUTS.png": "/static/media/ALLERGEN_TREE_NUTS.7b9960c8e93f57512f71.png",
+    "static/media/ALLERGEN_SOYA.png": "/static/media/ALLERGEN_SOYA.94c911b3df8f789aba45.png",
+    "static/media/ALLERGEN_SESAME.png": "/static/media/ALLERGEN_SESAME.006584d15ddaec608511.png",
+    "static/media/ALLERGEN_MUSTARD.png": "/static/media/ALLERGEN_MUSTARD.6481f07378008d0c028f.png",
+    "static/media/ALLERGEN_PEANUTS.png": "/static/media/ALLERGEN_PEANUTS.b373864c7aec25d7b6c7.png",
+    "static/media/ALLERGEN_CRUSTACEANS.png": "/static/media/ALLERGEN_CRUSTACEANS.ce36d55007d5a83a1590.png",
+    "static/media/ALLERGEN_MOLLUSCE.png": "/static/media/ALLERGEN_MOLLUSCE.a44f31ac717423a9674c.png",
+    "static/media/ALLERGEN_EGGS.png": "/static/media/ALLERGEN_EGGS.fbacda18d29d0c50380c.png",
+    "static/media/ALLERGEN_MILK.png": "/static/media/ALLERGEN_MILK.68145728b7f4286b9e55.png",
+    "static/media/add.png": "/static/media/add.eb4f43d97ad32cf7cc54.png",
+    "static/media/default.png": "/static/media/default.18ef4a37f5f43232c7e0.png",
+    "static/media/Table.xlsx": "/static/media/Table.fde72d7195473d8ed5b2.xlsx",
+    "index.html": "/index.html",
+    "main.14ceba61.css.map": "/static/css/main.14ceba61.css.map",
+    "main.538fd5d9.js.map": "/static/js/main.538fd5d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ceba61.css",
+    "static/js/main.538fd5d9.js"
+  ]
+}
